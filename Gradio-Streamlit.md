@@ -1,5 +1,5 @@
 markdown_text = """
-# Gradio vs Streamlit: 장단점 비교 강의 교안
+# Gradio vs Streamlit: 장단점 비교
 
 ---
 
